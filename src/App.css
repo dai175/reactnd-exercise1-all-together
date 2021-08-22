@@ -30,3 +30,8 @@
     transform: rotate(360deg);
   }
 }
+
+.Create-user, .User-list {
+  border: black solid 1px;
+  padding: 1em;
+}
